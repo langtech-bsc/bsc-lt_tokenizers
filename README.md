@@ -1,6 +1,6 @@
-# Langtech Tokenizers
+# BSC-LT Tokenizers
 
-This is Langtech' s code for training, evaluating and modifying tokenizers. In particular, it has been used to train Salamandra's tokenizer.
+This is BSC-LT' s code for training, evaluating and modifying tokenizers. In particular, it has been used to train Salamandra's tokenizer.
 
 Unless otherwise specified, all the following scripts use tokenizers from the library SentencePiece.
 
